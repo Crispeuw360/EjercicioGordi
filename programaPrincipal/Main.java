@@ -25,7 +25,7 @@ public class Main {
 		do {
 			switch(op=mostrarMenu()) {
 			case 1:
-				introducir(a, teclado);
+				//introducir(a, teclado);
 				break;
 			case 2:
 				if(!a.isEmpty()) {
