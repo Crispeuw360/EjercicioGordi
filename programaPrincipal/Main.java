@@ -15,6 +15,10 @@ public class Main {
 		System.out.println("5. Salir");
 		return Utilidades.leerInt();
 	}
+	public static void Introducir()
+	{
+		
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
